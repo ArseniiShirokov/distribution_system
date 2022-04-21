@@ -1,2 +1,2 @@
 # distribution_system
-Building an Fault Tolerant MPI implementation
+Statement of the problem and description of the proposed algorithms in the report.pdf (in Russian).
